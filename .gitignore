@@ -16,3 +16,15 @@
 *.exe
 *.out
 *.app
+
+# avr
+.dep/
+*.lst
+*.lss
+*.eep
+*.elf
+*.hex
+*.sll
+*.map
+*.sym
+
